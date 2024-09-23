@@ -115,3 +115,52 @@
 		width: 80%;
 	}
 }
+
+.professional-education {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	padding: 20px;
+	background-color: #f9f9f9;
+	border-radius: 8px;
+}
+
+section {
+  width: 45%;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: #333;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 10px;
+}
+
+.degree, .job {
+  margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 1.4em;
+	color: #4CAF50;
+	margin-bottom: 5px;
+	font-style: normal;
+
+}
+
+p {
+	font-size: 1em;
+	color: #666;
+}
+
+.job, .degree p {
+  	margin-bottom: 8px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.professional-experience, .degree p {
+	color: #555;
+}

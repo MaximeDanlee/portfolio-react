@@ -23,7 +23,7 @@ const SEO = [
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
+		"I’ve worked on a variety of projects over the years and I’m proud of the progress I’ve made. From developing mobile applications to building full-scale websites, each project has pushed me to refine my skills and adapt to new challenges.",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 
